@@ -24,8 +24,7 @@ Key Tools:
 Key Takeaways
 - Data Integrity: Used core metrics to validate and protect data during every transformation
 - Optimization: Purged unnecessary source data to improve performance
-- Security: Implemented Row Level Security (RLS) for controlled data access
-*
+- Security: Implemented Row Level Security (RLS) for controlled data access*
 
 ### Project Title Two
 *A brief description of your project, the tools used, and the key insights derived.*
