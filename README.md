@@ -14,8 +14,18 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### Nightmare to Star Schema: End-to-End Data Modeling Transformation
+*In this portfolio project, I tackled a "nightmare" dataset consisting of 23 messy, disconnected tables. The objective was to modernize the data architecture by migrating a chaotic, unoptimized data model into a clean, professional-grade Star Schema. Throughout the process, I focused on establishing robust data standards, creating reliable relationships, and ensuring the model remains scalable and performant for analytical reporting
+Key Tools:
+- Power BI: Modeling, DAX, and report development
+- Power Query: Advanced data cleaning and transformation
+- DAX: Creation of complex business measures
+
+Key Takeaways
+- Data Integrity: Used core metrics to validate and protect data during every transformation
+- Optimization: Purged unnecessary source data to improve performance
+- Security: Implemented Row Level Security (RLS) for controlled data access
+*
 
 ### Project Title Two
 *A brief description of your project, the tools used, and the key insights derived.*
